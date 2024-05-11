@@ -1,0 +1,78 @@
+body {
+    background-color: #90e0ef;
+    margin: 0px;
+}
+
+.image {
+    max-width: 950px;
+}
+
+
+.story {
+    z-index: 0;
+    padding: 20px;
+    background-color: white;
+    color: #0a9396;
+    max-width: 950px;
+    margin: 10px auto;
+    border: 5px solid #95B0B5;
+    padding: 0px 8px;
+}
+
+.story-top {
+    font-family: Times New Roman, serif;
+    max-width: 950px;
+    margin: 0px auto;
+}
+
+.story-text {
+    max-width: 950px;
+    margin: 0px auto;
+    font-family: Times New Roman, serif;
+    line-height: 29px;
+    font-size: 18px;
+}
+
+.vis {
+    max-width: 1150px;
+    margin: 0px;
+}
+
+.story-tags ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.story-tags li {
+    display: inline-block;
+    padding: 5px 9px;
+    background-color: #ebebeb;
+    color: #354B45;
+    font-family: Times New Roman, serif;
+    font-size: 12px;
+}
+
+
+.photo-caption {
+    font-family: Times New Roman, serif;
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+.about-the-data {
+    font-family: Times New Roman, serif;
+    font-size: 10px;
+}
+.another-story {
+    font-family: Times New Roman, serif;
+    border: 1px solid #DFDFDF;
+    padding: 8px 25px;
+    margin: 25px 0px;
+    border-radius: 5px;
+}
+
+.story h2 {
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-family: Times New Roman, serif;
+}
